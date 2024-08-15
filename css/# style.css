@@ -1,0 +1,13 @@
+body{background-color: blanchedalmond;}
+
+
+ul{
+    display:flex;
+    text-align: center;
+}
+
+li{
+    margin:20px ;
+
+
+}
